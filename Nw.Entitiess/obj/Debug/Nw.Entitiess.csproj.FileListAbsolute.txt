@@ -1,0 +1,6 @@
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Entitiess\bin\Debug\Nw.Entitiess.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Entitiess\bin\Debug\Nw.Entitiess.pdb
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Entitiess\obj\Debug\Nw.Entitiess.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Entitiess\obj\Debug\Nw.Entitiess.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Entitiess\obj\Debug\Nw.Entitiess.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Entitiess\obj\Debug\Nw.Entitiess.pdb

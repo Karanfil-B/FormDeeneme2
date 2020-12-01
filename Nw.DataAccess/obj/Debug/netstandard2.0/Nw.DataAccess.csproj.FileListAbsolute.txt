@@ -1,0 +1,4 @@
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAccess\bin\Debug\netstandard2.0\Nw.Entities.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAccess\obj\Debug\netstandard2.0\Nw.DataAccess.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAccess\obj\Debug\netstandard2.0\Nw.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAccess\obj\Debug\netstandard2.0\Nw.DataAccess.AssemblyInfo.cs

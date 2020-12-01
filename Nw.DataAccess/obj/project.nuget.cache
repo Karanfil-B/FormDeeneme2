@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7gnkj2Lx1exFfe1gBj41IqphdTCieKhH/SOgSdduo54sMpcLCHxNO5MpsMrFD5hEvg8yGMTJtWbhE+2NztcgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\source\\repos\\NLayeredAppDemo\\Nw.DataAccess\\Nw.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VdeGoEX8ZGfLBJ7BaQcQOtbZ6uJKqXrA08OwIvkRCJTE9dDT3N9R6PVnsrvOu//cuNZssUP8pIi6ZVzUsZzB9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\source\\repos\\NLayeredAppDemo\\Nw.Entities\\Nw.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

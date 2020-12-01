@@ -1,0 +1,14 @@
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\Nw.DataAcces.dll.config
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\Nw.DataAcces.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\Nw.DataAcces.pdb
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\Nw.Entitiess.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\Nw.Entitiess.pdb
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\obj\Debug\Nw.DataAcces.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\obj\Debug\Nw.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\obj\Debug\Nw.DataAcces.csproj.CopyComplete
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\obj\Debug\Nw.DataAcces.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.DataAcces\obj\Debug\Nw.DataAcces.pdb

@@ -1,0 +1,16 @@
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\Nw.Busines.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\Nw.Busines.pdb
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\Nw.DataAcces.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\Nw.Entitiess.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\EntityFramework.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\Nw.DataAcces.pdb
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\Nw.DataAcces.dll.config
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\Nw.Entitiess.pdb
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\EntityFramework.xml
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\obj\Debug\Nw.Busines.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\obj\Debug\Nw.Busines.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\obj\Debug\Nw.Busines.csproj.CopyComplete
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\obj\Debug\Nw.Busines.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\obj\Debug\Nw.Busines.pdb
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\FluentValidation.dll
+C:\Users\Samsung\source\repos\NLayeredAppDemo\Nw.Busines\bin\Debug\FluentValidation.xml
